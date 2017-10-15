@@ -1,0 +1,3 @@
+export const UPDATE_IMAGES = "UPDATE_IMAGES";
+export const UPDATE_NSFW = "UPDATE_NSFW";
+export const UPDATE_BAD_WORDS = "UPDATE_BAD_WORDS";

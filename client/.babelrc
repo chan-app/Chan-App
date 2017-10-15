@@ -1,0 +1,9 @@
+{
+  "presets": ["babel-preset-expo"],
+  "plugins": ["transform-function-bind", "preval"],
+  "env": {
+    "development": {
+      "plugins": ["transform-react-jsx-source"]
+    }
+  }
+}
